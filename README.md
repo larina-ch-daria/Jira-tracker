@@ -2,7 +2,7 @@
 
 Плавающий виджет-«таблетка» для команды тестирования, который живёт поверх любой вкладки браузера и в реальном времени показывает, что стоит на проверке прямо сейчас. Реализован как userscript (Tampermonkey) с бэкендом на Google Apps Script.
 
-**- [Живое демо](https://github.com/larina-ch-daria/Jira-tracker/demo)**
+**- [Живое демо](https://github.com/larina-ch-daria/Jira-tracker/index.html)**
 
 > Демо работает на **вымышленных данных** — реальная Jira, токены и URL в него не входят.
 
